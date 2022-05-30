@@ -2,7 +2,7 @@
 Codes used for the analysis of the IMPPAT 2.0 data have been deposited in this repository.
 
 ## Brief description of IMPPAT 2.0
-Indian Medicinal Plants, Phytochemistry And Therapeutics 2.0 (IMPPAT 2.0) is a manually curated database which has been constructed via digitalization of information from more than 100 books on traditional Indian medicine, nearly 5000 published research articles and other existing resources. IMPPAT 2.0 is the largest digital database on phytochemicals of Indian medicinal plants to date, and is a significant enhancement and expansion over IMPPAT 1.0.
+Indian Medicinal Plants, Phytochemistry And Therapeutics 2.0 (IMPPAT 2.0) is a manually curated database which has been constructed via digitalization of information from more than 100 books on traditional Indian medicine, 7000+ published research articles and other existing resources. IMPPAT 2.0 is the largest digital database on phytochemicals of Indian medicinal plants to date, and is a significant enhancement and expansion over IMPPAT 1.0.
 
 IMPPAT 2.0 captures three different types of associations:
 (a) Indian medicinal plants - Plant parts- Phytochemical constituents
