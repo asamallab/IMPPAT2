@@ -20,25 +20,17 @@ Importantly, for the 17967 phytochemicals in this database, we provide the two-d
 
 In a nutshell, IMPPAT is the largest database on phytochemicals of Indian medicinal plants to date, and this resource is a culmination of our ongoing efforts to digitize the wealth of information contained within traditional Indian medicine. IMPPAT provides an integrated platform to apply cheminformatic approaches to accelerate natural product based drug discovery. IMPPAT is also expected to enable application of system-level approaches towards future elucidation of mechanistic links between phytochemicals of Indian medicinal plants and their therapeutic action.
 
-Code/Script Details:
-=================================================
+## Code Details:
 
-The following two scripts can be used to filter the cross-correlation matrices and generate edge files and node files of the filtered networks:
-1) mst_wt.py : Python script to generate a weighted or unweighted filtered minimum spanning tree + thresholded network from the weighted network of cross-correlation values. The weights are interpreted as distances (costs).
-2) PMFG_wt.py: Python script to generate a weighted PMFG from the weighted network of cross-correlation values. The weights are interpreted as distances (costs).
+The following python scripts can be used to analyze the chemical structures:
+1) ChemicalSimilarityNetwork.py : Calculate Tanimoto coefficient for quantifying chemical structure similarity between molecules in a library
+2) ChemicalStructureImages.py : Create SVG or PNG images for chemical structures in a library
+3) DruglikelinessProperties.py : Evaluate drug-likeness of chemical structures in a library
+4) MolecularProperties.py : Compute physicochemical properties for chemical structures in a library 
+5) MolecularScaffolds.py : Compute molecular scaffolds for chemical structures in a library
+6) MurckoScaffold.py : Edited MurckoScaffold.py code of RDKit package to compute Scaffold at Graph/Node level
 
-The following scripts can be used to compute the different network measures for the filtered networks:
-1) clique_number.py : Clique number
-2) diameter_wt.py : Diameter of a weighted network
-3) eigenvector_centality.py : Eigenvector centrality for all the nodes of a weighted network
-4) FormanUndirected.cpp : Forman-Ricci curvature for all the edges of a weighted/unweighted network 
-5) ga_wt: Global assortativity of a weighted network
-6) graph_measures.py : Number of edges, Average degree, Average Weighted Degree, Edge Density, Average Clustering coefficient
-7) grc_wt_undir.py : Global Reaching Centrality of a weighted network
-8) network_entropy.py : Entropy of an unweighted network
-9) comm_eff.py : Communication efficiency of a weighted network
-10) OR-UnDir.py : Ollivier-Ricci curvature for all the edges of a weighted/unweighted but undirected network
-11) MengerHaantjesUnweighted.py : Menger-curvature and Haantjes-curvature for all the edges of an unweighted network
+The above scripts have been provided with information on required packages and input files for their execution.
 
 ### CITATION
 In case you use the codes or data herein, please cite the manuscript:<br/>
