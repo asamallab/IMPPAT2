@@ -32,8 +32,6 @@ The following python scripts can be used to analyze the chemical structures:
 
 The above scripts have been provided with information on required packages and input files for their execution.
 
-### Citation
-In case you use the codes or data herein, please cite the manuscript:<br/>
+## Citation
+In case you use the codes herein, please cite the manuscript:<br/>
 <i>IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants</i>, R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*. Manuscript in submission.
-
-We welcome suggestions from researchers in academia and industry for future improvements of our database.
