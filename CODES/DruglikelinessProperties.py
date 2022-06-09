@@ -1,4 +1,4 @@
-#Compute drug-likeness properties for chemical structures in a library
+#Evaluate drug-likeness of chemical structures in a library
 #Following analysis requires RDKit python package
 #The output from MolecularProperties.py is used as input
 #python3 DruglikenessProperties.py <output file from MolecularProperties.py> <input sdf file> <output file name>
