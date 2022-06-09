@@ -20,7 +20,7 @@ Importantly, for the 17967 phytochemicals in this database, we provide the two-d
 
 In a nutshell, IMPPAT is the largest database on phytochemicals of Indian medicinal plants to date, and this resource is a culmination of our ongoing efforts to digitize the wealth of information contained within traditional Indian medicine. IMPPAT provides an integrated platform to apply cheminformatic approaches to accelerate natural product based drug discovery. IMPPAT is also expected to enable application of system-level approaches towards future elucidation of mechanistic links between phytochemicals of Indian medicinal plants and their therapeutic action.
 
-## Code Details:
+## Code details:
 
 The following python scripts can be used to analyze the chemical structures:
 1) ChemicalSimilarityNetwork.py : Calculate Tanimoto coefficient for quantifying chemical structure similarity between molecules in a library
@@ -32,7 +32,7 @@ The following python scripts can be used to analyze the chemical structures:
 
 The above scripts have been provided with information on required packages and input files for their execution.
 
-### CITATION
+### Citation
 In case you use the codes or data herein, please cite the manuscript:<br/>
 <i>IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants</i>, R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*. Manuscript in submission.
 
