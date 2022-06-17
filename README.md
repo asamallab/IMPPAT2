@@ -25,10 +25,10 @@ In a nutshell, IMPPAT is the largest database on phytochemicals of Indian medici
 The following python scripts can be used to analyze the chemical structures:
 1) [ChemicalSimilarityNetwork.py](https://github.com/asamallab/IMPPAT2/blob/main/CODES/ChemicalSimilarityNetwork.py) : Calculate Tanimoto coefficient for quantifying chemical structure similarity between molecules in a library
 2) [ChemicalStructureImages.py](https://github.com/asamallab/IMPPAT2/blob/main/CODES/ChemicalStructureImages.py) : Create SVG or PNG images for chemical structures in a library
-3) DruglikenessProperties.py : Evaluate drug-likeness of chemical structures in a library
-4) MolecularProperties.py : Compute physicochemical properties for chemical structures in a library 
-5) MolecularScaffolds.py : Compute molecular scaffolds for chemical structures in a library
-6) MurckoScaffold.py : Edited MurckoScaffold.py code of RDKit package to compute Scaffold at Graph/Node level
+3) [DruglikenessProperties.py](https://github.com/asamallab/IMPPAT2/blob/main/CODES/DruglikenessProperties.py) : Evaluate drug-likeness of chemical structures in a library
+4) [MolecularProperties.py](https://github.com/asamallab/IMPPAT2/blob/main/CODES/MolecularProperties.py) : Compute physicochemical properties for chemical structures in a library 
+5) [MolecularScaffolds.py](https://github.com/asamallab/IMPPAT2/blob/main/CODES/MolecularScaffolds.py) : Compute molecular scaffolds for chemical structures in a library
+6) [MurckoScaffold.py](https://github.com/asamallab/IMPPAT2/blob/main/CODES/MurckoScaffold.py) : Edited MurckoScaffold.py code of RDKit package to compute Scaffold at Graph/Node level
 
 The above scripts have been provided with information on required packages and input files for their execution.
 
