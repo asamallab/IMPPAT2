@@ -10,10 +10,10 @@ R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*,<
 
 Indian Medicinal Plants, Phytochemistry And Therapeutics 2.0 (IMPPAT 2.0) is a manually curated database which has been constructed via digitalization of information from more than 100 books on traditional Indian medicine, 7000+ published research articles and other existing resources. IMPPAT 2.0 is the largest digital database on phytochemicals of Indian medicinal plants to date, and is a significant enhancement and expansion over IMPPAT 1.0. It can be acccessed at: https://cb.imsc.res.in/imppat.
 
-IMPPAT 2.0 captures three different types of associations:
-(a) Indian medicinal plants - Plant parts- Phytochemical constituents
-(b) Indian medicinal plants - Plant parts - Therapeutic uses
-(c) Indian medicinal plants - Plant parts - Traditional Indian medicinal formulations
+IMPPAT 2.0 captures three different types of associations:<br>
+(a) Indian medicinal plants - Plant parts- Phytochemicals <br>
+(b) Indian medicinal plants - Plant parts - Therapeutic uses<br>
+(c) Indian medicinal plants - Plant parts - Traditional Indian medicinal formulations<br>
 
 The current version 2.0 released on June 1, 2022 of the IMPPAT database captures 4010 Indian medicinal plants, 17967 phytochemicals, 1095 therapeutic uses and 1133 traditional Indian medicinal formulations. This is more than 2-fold increase in Indian medicinal plants coverage and nearly 2-fold increase in the number of phytochemical constituents compared to IMPPAT 1.0. More importantly, the phytochemical constituents and the therapeutic uses of the Indian medicinal plants are now provided at the level of plant part, while IMPPAT 1.0 did not capture the associations at the plant part level. Another significant update is the 5-fold increase in the number of Indian medicinal plants - Phytochemical constituents and Indian medicinal plants - Therapeutic use associations in comparision to IMPPAT 1.0. Note that the earlier version 1.0 of IMPPAT was released on January 25, 2018.
 
