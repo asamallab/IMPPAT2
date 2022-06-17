@@ -1,8 +1,8 @@
 # IMPPAT 2.0
  
-This repository contains the codes associated with the following manuscript:<br>
+This repository contains the codes for cheminformatics analysis performed in the following manuscript:<br>
 <i>IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants.</i><br>
-R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*, Manuscript in submission.
+R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*, (Submitted).
 
 ## Brief description of IMPPAT 2.0
 ![DatabaseOverview](https://github.com/asamallab/IMPPAT2/blob/main/DatabaseOverview.png)
