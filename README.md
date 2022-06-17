@@ -35,4 +35,4 @@ The above scripts have been provided with information on required packages and i
 
 ## Citation
 In case you use the codes herein, please cite the manuscript:<br/>
-<i>IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants</i>, R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*. Manuscript in submission.
+<i>IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants</i>, R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*,<br> (Submitted).
