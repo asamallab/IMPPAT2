@@ -23,7 +23,7 @@ In a nutshell, IMPPAT is the largest database on phytochemicals of Indian medici
 ## Code details
 
 The following python scripts can be used to analyze the chemical structures:
-1) ChemicalSimilarityNetwork.py : Calculate Tanimoto coefficient for quantifying chemical structure similarity between molecules in a library
+1) [ChemicalSimilarityNetwork.py](https://github.com/asamallab/IMPPAT2/blob/main/CODES/ChemicalSimilarityNetwork.py) : Calculate Tanimoto coefficient for quantifying chemical structure similarity between molecules in a library
 2) ChemicalStructureImages.py : Create SVG or PNG images for chemical structures in a library
 3) DruglikenessProperties.py : Evaluate drug-likeness of chemical structures in a library
 4) MolecularProperties.py : Compute physicochemical properties for chemical structures in a library 
