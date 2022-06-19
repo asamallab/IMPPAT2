@@ -1,9 +1,9 @@
 # IMPPAT 2.0
  
 This repository contains the codes for cheminformatics analysis performed in the following manuscript:<br>
-<i>IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants,</i><br>
+<i>[IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants](https://www.biorxiv.org/content/10.1101/2022.06.17.496609v1),</i><br>
 R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*,<br>
-(Submitted).
+bioRxiv 2022.06.17.496609 (2022).
 
 ## Brief description of IMPPAT 2.0
 ![DatabaseOverview](https://github.com/asamallab/IMPPAT2/blob/main/DatabaseOverview.png)
@@ -35,4 +35,4 @@ The above scripts have been provided with information on required packages and i
 
 ## Citation
 In case you use the codes herein, please cite the manuscript:<br/>
-<i>IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants</i>, R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*,<br> (Submitted).
+<i>[IMPPAT 2.0: an enhanced and expanded phytochemical atlas of Indian medicinal plants](https://www.biorxiv.org/content/10.1101/2022.06.17.496609v1)</i>, R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*,<br> bioRxiv 2022.06.17.496609 (2022).
