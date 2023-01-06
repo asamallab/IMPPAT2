@@ -6,7 +6,7 @@ R. P. Vivek-Ananth, Karthikeyan Mohanraj, Ajaya Kumar Sahoo and Areejit Samal*,<
 bioRxiv 2022.06.17.496609 (2022).
 
 ## Brief description of IMPPAT 2.0
-![DatabaseOverview](https://github.com/asamallab/IMPPAT2/blob/main/DatabaseOverview.png)
+![DatabaseOverview](https://github.com/asamallab/IMPPAT2/blob/main/DatabaseOverviewUpdated.png)
 
 Indian Medicinal Plants, Phytochemistry And Therapeutics 2.0 (IMPPAT 2.0) is a manually curated database which has been constructed via digitalization of information from more than 100 books on traditional Indian medicine, 7000+ published research articles and other existing resources. IMPPAT 2.0 is a significant enhancement and expansion over IMPPAT 1.0. It can be acccessed at: https://cb.imsc.res.in/imppat.
 
